@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Ud4Ja_W5)
+# Homework 1
+## Vertebral Column Data Set
+1. Pre-Processing and Exploratory data analysis
+2. Classification using KNN
