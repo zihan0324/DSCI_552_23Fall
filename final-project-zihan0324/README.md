@@ -1,8 +1,8 @@
-Name: Zihan Liu
-<br>
-Github Username: zihan0324
-<br>
-USC ID: 1534981630
+**Data set can be downloaded through:**
+
+https://www.dropbox.com/sh/38zygdpo6u7alwy/AAB1PJuhqF-58GZJ-oD4xl5Ya?e=1&dl=0
+
+(Data is not uploaded because of size)
 
 # [Notebooks](./notebooks/)
 
